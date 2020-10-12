@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReWebbo/static/css/main.f8c65234.chunk.css",
+    "main.js": "/ReWebbo/static/js/main.475c3e0d.chunk.js",
+    "main.js.map": "/ReWebbo/static/js/main.475c3e0d.chunk.js.map",
+    "runtime-main.js": "/ReWebbo/static/js/runtime-main.0500b0c5.js",
+    "runtime-main.js.map": "/ReWebbo/static/js/runtime-main.0500b0c5.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/ReWebbo/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.5a20024f.chunk.js": "/ReWebbo/static/js/2.5a20024f.chunk.js",
+    "static/js/2.5a20024f.chunk.js.map": "/ReWebbo/static/js/2.5a20024f.chunk.js.map",
+    "index.html": "/ReWebbo/index.html",
+    "precache-manifest.8fae246a3358c8cbb905128667e8196c.js": "/ReWebbo/precache-manifest.8fae246a3358c8cbb905128667e8196c.js",
+    "service-worker.js": "/ReWebbo/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/ReWebbo/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.f8c65234.chunk.css.map": "/ReWebbo/static/css/main.f8c65234.chunk.css.map",
+    "static/js/2.5a20024f.chunk.js.LICENSE.txt": "/ReWebbo/static/js/2.5a20024f.chunk.js.LICENSE.txt",
+    "static/media/3.svg": "/ReWebbo/static/media/3.cd9d6d3a.svg",
+    "static/media/avion.svg": "/ReWebbo/static/media/avion.1586862b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0500b0c5.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.5a20024f.chunk.js",
+    "static/css/main.f8c65234.chunk.css",
+    "static/js/main.475c3e0d.chunk.js"
+  ]
+}
